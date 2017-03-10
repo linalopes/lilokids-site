@@ -1,0 +1,4 @@
+---
+layout: passados
+permalink: '/passados'
+---

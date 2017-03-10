@@ -1,0 +1,4 @@
+---
+layout: proximas
+permalink: '/proximas'
+---
